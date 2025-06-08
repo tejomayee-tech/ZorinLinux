@@ -1,22 +1,17 @@
 # ZorinLinux
 
-You're right, the previous guide was very detailed. Let's make it concise and directly address your points about the automatic option.
 
-Here's a crisp, brief guide to dual-booting Zorin OS with Windows 10, focusing on the automatic installation:
+## Guide: Dual-Boot Zorin OS with Windows
 
----
-
-## Simple Guide: Dual-Boot Zorin OS with Windows 10
-
-**Goal:** Install Zorin OS next to Windows 10, letting Zorin handle the hard drive setup.
+**Goal:** Install Zorin OS next to Windows, letting Zorin handle the hard drive setup.
 
 ### What You Need:
 
 1.  **Computer with Windows 10.**
-2.  **Zorin OS:** Download the `.iso` file from `zorin.com/os/download/`.
-3.  **USB Stick (8GB+):** All data on it will be erased.
-4.  **Rufus Software:** Download from `rufus.ie/en/`.
-5.  **Important:** **Backup Your Files!**
+2.  **Zorin OS:** Download the `.iso` file from `zorin.com/os/download/`. Use `Zorin Core` version for minimal default apps, blazing fast performance, use `Zorin Education` for kids.  
+4.  **USB Stick (8GB+):** All data on it will be erased.
+5.  **Rufus Software:** Download from `rufus.ie/en/`.
+6.  **Important:** **Backup Your Files!**
 
 ---
 
@@ -99,4 +94,4 @@ Before you install, you can try Zorin OS right from the USB stick! This is a gre
     * **"Windows Boot Manager"** to use Windows 10.
 3.  Press `Enter`. If you don't choose, it will auto-start Zorin OS after a few seconds.
 
-You're all set! Enjoy dual-booting.
+You're all set! Enjoy the world of Linux with the most user friendly and fast OS.
