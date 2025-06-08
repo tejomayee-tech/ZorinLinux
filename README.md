@@ -45,7 +45,16 @@
 
 1.  **Insert the Zorin OS USB stick.**
 2.  **Restart your computer.**
-3.  As it restarts, repeatedly press your computer's **Boot Menu key** (common: `F12`, `F10`, `Esc`, `F2`).
+3.  **Enter BIOS/UEFI Settings or Boot Menu:**
+    * As your computer restarts, you need to repeatedly press a specific key to enter the "BIOS/UEFI Setup" or "Boot Menu."
+    * **Common Keys:**
+        * **Dell:** `F2` (BIOS) or `F12` (Boot Menu)
+        * **HP:** `F10` (BIOS) or `F9` (Boot Menu)
+        * **Lenovo:** `F1` or `F2` (BIOS) or `F12` (Boot Menu)
+        * **Acer:** `F2` (BIOS) or `F12` (Boot Menu)
+        * **Asus:** `Del` or `F2` (BIOS) or `F8` (Boot Menu)
+        * **Microsoft Surface:** Press and hold Volume Up while pressing power button.
+        * **General:** `Esc`, `F1`, `F8`, `F9`, `F10`, `F11`, `F12`, `Del`
 4.  From the boot menu, select your **USB stick** (e.g., "UEFI: Your_USB_Name").
 
 ---
