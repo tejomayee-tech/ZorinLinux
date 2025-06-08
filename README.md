@@ -5,7 +5,7 @@
 
 **Goal:** Install Zorin OS next to Windows, letting Zorin handle the hard drive setup.
 
-**IMPORANT:** Highly recommend backing all document and file on the computer or try on old pc or laptop, you'd be surprized to how you make your old computers productive with Linux. 
+**IMPORANT:** Highly recommend backing all documents and files on the computer or try on old pc or laptop (you'd be surprized to how you make your old computers productive with Linux). 
 > Note: You can also try Zorin with Oracle Virtual Box first.
 
 ### What You Need:
