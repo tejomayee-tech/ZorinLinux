@@ -2,7 +2,7 @@
 
 ## Videos
 
-1. **Introduction** : [Click here and download file](https://github.com/tejomayee-tech/ZorinLinux-Introduction-And-Demo/blob/main/ZorinDemo%20(Introduction).mp4)
+1. **Introduction** : [Click here and download file](https://github.com/tejomayee-tech/ZorinLinux-Introduction-And-Demo/blob/main/ZorinDemo%20(Introduction).mp4) (Hint: use the three dot's against the file on the right hand side)
 
 ## Guide: Dual-Boot Zorin OS with Windows
 
