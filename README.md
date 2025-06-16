@@ -4,6 +4,8 @@
 
 1. **Introduction** : [Click here and download file](https://github.com/tejomayee-tech/ZorinLinux-Introduction-And-Demo/blob/main/ZorinDemo%20(Introduction).mp4) (Hint: use the three dot's against the file on the right hand side)
 
+<iframe width="560" height="315" src="https://youtu.be/vIFS7nFEYEw?si=dauo445fV8mS0XCM" frameborder="0" allowfullscreen></iframe>
+
 ## Guide: Dual-Boot Zorin OS with Windows
 
 **Goal:** Install Zorin OS next to Windows, letting Zorin handle the hard drive setup.
