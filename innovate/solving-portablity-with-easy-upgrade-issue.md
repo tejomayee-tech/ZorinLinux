@@ -1,4 +1,23 @@
+# the portablity-with-easy-upgrade-issue
 
+## what is the problem 
+
+
+## What is the solution
+
+ AI MINI PC with Touch screen + keyboard (laptop shaped)
+
+## Advantages
+
+1. upgrade the hardware with extreme ease, and keep upgrading as much as you like, mini pc's have upto 64 GM, sometimes 96GB DDR5 RAM support, 4 to 12 TB SSD support and 4 4k displays support with great GPU's for AI image and video processing
+2. carrying the wieght of hardware on your lap with less battery life is gone, you get a bigger battery and CPU hardware take the place of your laptops adapter block
+3. 
+
+## Solving power problem 
+
+Make you select a mini pc that supports ubc c power and use a power bank for off grid power https://www.youtube.com/watch?v=C6H-CyOy5d4, may use case to club them and or tape them together, just kidding.
+
+Anker power banks can be used to power mini PCs, provided the power bank has sufficient power output and the mini PC supports USB-C Power Delivery (PD). Many mini PCs, like the Minisforum UM790 Pro, are designed to be powered via USB-C, making them compatible with power banks that offer USB-C PD. The Anker 737 power bank, for example, can deliver 100 watts of USB-C PD power, which is sufficient for many mini PCs. 
 
 
 ## AI MINI PC
