@@ -7,6 +7,8 @@
 
 - https://www.amazon.ca/Beelink-Computers-i5-11320H-Computer-Supports/dp/B0BPL4G7WJ/
 
+- https://www.amazon.ca/Beelink-Processor-4-5GHz-Computer-Computers/dp/B08QCMSR6R?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A3OHI25ZCHSGMQ&th=1
+
 ## Touch screen with keyboard
 
 - https://www.amazon.ca/Lapdock-Experience-Portable-Keyboard-Compatible/dp/B0CSSRVW8G/
