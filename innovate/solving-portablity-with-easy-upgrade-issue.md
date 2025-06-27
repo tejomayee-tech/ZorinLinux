@@ -5,7 +5,7 @@
 
 ## What is the solution
 
- AI MINI PC with Touch screen + keyboard (laptop shaped)
+ AI MINI PC with Touch screen + keyboard (laptop shaped) + Compact power bank
 
 ## Advantages
 
