@@ -19,7 +19,7 @@ Anker power banks can be used to power mini PCs, provided the power bank has suf
 
 1. upgrade the hardware with extreme ease, and keep upgrading as much as you like, mini pc's have upto 64 GM, sometimes 96GB DDR5 RAM support, 4 to 12 TB SSD support and 4 4k displays support with great GPU's for AI image and video processing
 2. carrying the wieght of hardware on your lap with less battery life is gone, you get a bigger battery and CPU hardware take the place of your laptops adapter block
-3. 
+3. Minisforum UM790 Pro can be used for AI image and video generation, particularly for tasks like image generation with Stable Diffusion and video editing. It's equipped with an AMD Ryzen 9 7940HS processor and AMD Radeon 780M graphics, which are capable of handling AI workloads. The built-in AMD Ryzen AI engine also contributes to its AI processing capabilities
 
 ## Disadvantages
 
